@@ -3,7 +3,7 @@
 
 Welcome to the **Vrinda Store Revenue & Customer Segmentation Project** 🚀  
 
-This project demonstrates an end-to-end analytics pipeline from raw transaction data to business insights using **Excel, SQL, and Power BI concepts**.
+This project demonstrates an end-to-end analytics pipeline from raw transaction data to business insights using **SQL, and Power BI concepts**.
 
 The goal was to transform a flat sales dataset into a performance-optimized analytical model, identify customer loyalty behavior, and measure revenue dependency on repeat buyers.
 
@@ -25,7 +25,7 @@ Without segmentation and structured modeling, decision-making was reactive rathe
 
 # 🏗️ End-to-End Analytics Process  
 
-## 1️⃣ ETL Layer – Data Preparation  
+## 1️⃣ ETL Layer - Data Preparation  
 
 - Cleaned **30,000+ transaction records**
 - Removed nulls, duplicates, and inconsistent order statuses
@@ -35,7 +35,7 @@ Without segmentation and structured modeling, decision-making was reactive rathe
 
 ---
 
-## 2️⃣ Data Modeling – Star Schema Implementation ⭐  
+## 2️⃣ Data Modeling - Star Schema Implementation ⭐  
 
 To improve performance and scalability, the flat transaction file was transformed into a **Star Schema model**.
 
@@ -96,7 +96,7 @@ GROUP BY 1;
 
 ---
 
-## 4️⃣ Visualization Layer – Power BI / Excel Dashboard  
+## 4️⃣ Visualization Layer - Power BI / Excel Dashboard  
 
 An interactive dashboard was built to monitor:
 
