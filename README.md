@@ -1,4 +1,4 @@
-Welcome to 
+### Welcome to 
 # 🚀 End-to-End Retail Analytics: Revenue Growth & Customer Intelligence Pipeline 
 **ETL | Star Schema | DAX | KPI Design | Power Query | SQL**
 
@@ -109,11 +109,11 @@ GROUP BY 1;
 ![dash](https://github.com/user-attachments/assets/53cd6b27-cc27-44bf-b63e-ea85226b9281)
 
 ---
+
 **Optimization Steps**
 1. Removed unnecessary columns to reduce model size.
 2. Leveraged Star Schema to optimize DAX measures and aggregations.
 
---
 
 # 📊 Key Insights  
 
