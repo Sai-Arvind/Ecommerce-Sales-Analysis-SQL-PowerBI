@@ -1,5 +1,5 @@
 Welcome to 
-# 🚀 Retail Revenue & Customer Segmentation Pipeline  
+# 🚀 End-to-End Retail Analytics: Revenue Growth & Customer Intelligence Pipeline 
 **ETL | Star Schema | DAX | KPI Design | Power Query | SQL**
 
 This project demonstrates an end-to-end analytics pipeline from raw flat file data into actionable business insights.
