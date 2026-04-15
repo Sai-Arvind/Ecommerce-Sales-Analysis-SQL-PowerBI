@@ -1,5 +1,5 @@
  # 🛍️ Vrinda Clothing Store 
- Revenue Intelligence & Operational Optimization
+ Revenue Intelligence & Operational Optimization, "The 64% Engine: How Revenue is Won in E-commerce”
 
  <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/a7fa26d4-e837-43e2-bdb5-615fbd8cd160" />
 
