@@ -1,4 +1,4 @@
- # 🛍️ Vrinda a Fashion Platform
+ # 🛍️ Vrinda Fashion Platform
  Revenue Intelligence & Operational Optimization, "The 64% Engine: How Revenue is Won in E-commerce”'
  - Instagram: https://www.instagram.com/vrinda_clothingstudio/
  - Website: https://vrindaclothing.in/?srsltid=AfmBOoqdnKz9xn4ufKfuvs8bu8YibNrsUrNSskfFHXszv9OofTfr6-t4
