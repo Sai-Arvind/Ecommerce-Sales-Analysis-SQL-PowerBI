@@ -431,7 +431,8 @@ DIVIDE(
 - Puducherry → 7.69%  
 - Andaman & Nicobar → 6.94%  
 
->"👉 Localized logistics inefficiency"
+>"👉 Localized logistics inefficiency" 
+> "One of my key findings was actually a **data gap**. I noted that without 'Time-to-Delivery' or 'Payment Type' metrics, we couldn't fully solve the cancellation mystery. I recommended capturing these data points in the CRM to make future analysis more actionable."
 ---
 
 ### 📉 Seasonal Trends  
